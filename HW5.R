@@ -3,7 +3,7 @@
 
 #Q3 A
 x=seq(-2,2,length=200)
-y1= 0.375-0.09375*x^2
+y= 0.375-0.09375*x^2
 plot(x,y,type="l",lwd=2,col="red")
 
 #Q8 A
